@@ -6,4 +6,6 @@ As members of the Baby Boomer generation age, many have decided that they don’
 
 Potential sources for this story include: a representative from the NYC Department of Aging, senior residents in the Bronx including those living in senior housing or NYCHA, a reprensentative from the Census Bureau, staff from Bronx hospitals, and many others.
 
+I can pitch this story to some of the local NYC outlets, who report on borough to borough issues: Gothamist, Mott-Haven Herald in the Bronx, and maybe the NY Daily News.
+
 You can see my data analysis [here](https://docs.google.com/spreadsheets/d/1T9lM8UP-I_xfB0b6m-wGg8ml8LSLNuQXagdfzErptOU/edit?usp=sharing). The original data set can be found at [NYC Open Data](https://data.cityofnewyork.us/City-Government/Projected-Population-2010-2040-Total-By-Age-Groups/97pn-acdf).
